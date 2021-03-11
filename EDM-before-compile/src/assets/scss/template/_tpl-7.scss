@@ -1,0 +1,32 @@
+/*
+=====================
+TPL Css  7
+=====================
+*/
+
+.text-color { color: #DD2436;}
+
+@media (min-width:599px){
+    th.left-col.first {
+        padding-left: 0 !important;
+      }
+      th.right-col {
+        padding-right: 0 !important;
+      }
+    .index-7-center-area .v-line table img {
+        height: 358px;
+    }
+    .index-7-center-area th.v-line.columns {
+        width: 4%;
+    }
+    th.left-col {
+        width: 29% !important;
+    }
+    th.right-col.columns.last {
+        width: 64%;
+    }
+    th.v-line .columns {
+        padding: 0 !important;
+    }
+    
+}

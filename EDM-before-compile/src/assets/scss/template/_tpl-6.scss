@@ -1,0 +1,20 @@
+/*
+=====================
+TPL Css  5
+=====================
+*/
+.v-line.columns {
+    padding: 0 !important;
+}
+.index-6-center-area .date-time-row .columns.first {
+    width: 10%  !important;
+}
+.v-line table img {
+    height: 423px;
+}
+@media (max-width: 599px) { 
+    .v-line.columns {
+        display: none !important;
+    }
+
+}

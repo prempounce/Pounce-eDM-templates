@@ -1,0 +1,18 @@
+/*
+=====================
+TPL Css  5
+=====================
+*/
+.red-line {
+    border-top: solid 1px #DD2436 !important;
+}
+.date-time-row img {
+    width: 18px;
+}
+.date-time-row th { line-height: 20px;}
+@media (max-width:599px) {
+   .row.callaps.date-time-wrapper th {
+        padding: 2px 0px !important;
+    }
+}
+

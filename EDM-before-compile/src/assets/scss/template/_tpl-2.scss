@@ -1,0 +1,51 @@
+/*
+=====================
+TPL Css  2
+=====================
+*/
+.index-2-banner-b th.callout-inner {
+    padding: 0 !important;
+}
+.contentIMg td.wrapper-inner .columns {
+    padding: 0;
+}
+.contentIMg .callout-inner {
+    border: solid 1px #dd2436;
+    padding: 22px !important;
+}
+.contentIMg .button td {
+    background-color: $red-color;
+}
+.contentIMg .button td a {
+    color: $white !important;
+}
+.contentIMg h3 {
+    color: #dd2436;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    margin: 0;
+}
+
+.contentIMg th.small-1.large-1.columns.first,
+.contentIMg th.small-1.large-1.columns.last {
+    width: 5% !important;
+}
+.contentIMg th.small-10.large-10.columns {
+    width: 90%;
+}
+.contentIMg table {
+    margin: 0;
+}
+.list-item li strong {
+    color: #dd2436;
+  }
+ 
+  @media (max-width:599px){
+    .inner-container td.wrapper-inner td.wrapper-inner {
+        padding: 0   !important;
+    }
+    table.wrapper.contentIMg td.wrapper-inner {
+        padding: 0;
+    }
+  }
